@@ -1,0 +1,15 @@
+{
+  "name": "@xysdev/sample-package",
+  "version": "1.0.0",
+  "description": "This is a sample project which will publish to npm as a private package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xysdev/sample-private-package.git"
+  },
+  "author": "Erfan",
+  "license": "ISC"
+}
